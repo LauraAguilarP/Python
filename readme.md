@@ -1,6 +1,6 @@
 # Expresiones Regulares 
 
-Descripción
+Descripción [imagen]("#agregando-imagen")
 
 **Python** 
 
@@ -15,8 +15,10 @@ def saludo():
 
 fin codigo muestra
 ```
+## Agregando imagen
 
-s
+<img src="https://cdn4.josefacchin.com/wp-content/uploads/2020/02/como-quitar-el-fondo-de-una-imagen.png" width= "50%"/>
+
 
 
 
