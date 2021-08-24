@@ -17,8 +17,20 @@ fin codigo muestra
 ```
 ## Agregando imagen
 
-<img src="https://cdn4.josefacchin.com/wp-content/uploads/2020/02/como-quitar-el-fondo-de-una-imagen.png" width= "50%"/>
+<div align="center"><img src="https://cdn4.josefacchin.com/wp-content/uploads/2020/02/como-quitar-el-fondo-de-una-imagen.png" width= "50%"/></div>
+
+| Comando | Acción |
+| --- | --- |
+| `*` | Cero o más elementos |
+| `+` | Uno o más elementos |
 
 
+* ID
+* carácteres
+* símbolo
+
+1. ID
+2. carácteres
+3. Símbolo 
 
 
