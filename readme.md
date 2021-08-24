@@ -1,6 +1,6 @@
 # Expresiones Regulares 
 
-Descripción [imagen]("#agregando-imagen")
+Descripción [imagen](#agregando-imagen)
 
 **Python** 
 
